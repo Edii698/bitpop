@@ -1,0 +1,21 @@
+#pg-header {
+    margin-top: -28px;
+    height: 550px;
+    background-image: url('http://demo.bestdnnskins.com/portals/6/innerpage/banner3_04.jpg');
+    background-size: cover;
+}
+
+#hm-bar {
+    margin-top: -26px;
+    max-height: 70px;
+}
+
+.slide-info {
+    padding-top: 200px;
+}
+
+.title-txt {
+    font-family: 'Black Han Sans', sans-serif;
+    padding: 5px 0px 8px 0px;
+    color: white;
+}
