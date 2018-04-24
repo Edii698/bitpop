@@ -1,6 +1,6 @@
 import React from "react";
 import "./Header.css";
-import { Carousel, Button, Icon } from 'react-materialize'
+import {Button, Icon } from 'react-materialize'
 
 const Header = () =>(
     <div>
