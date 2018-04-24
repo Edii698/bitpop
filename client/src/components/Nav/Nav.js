@@ -5,7 +5,7 @@ import { Navbar, Modal, Input, NavItem, Row, Button } from 'react-materialize'
 
 const Nav = () => (
   <div className="navbar-fixed animated fadeInDown">
-      <Navbar brand='BittPop' className="#03a9f4 light-blue">
+      <Navbar brand='BitPop.me!' className="#03a9f4 light-blue">
               <Modal
                 header='Sign in'
                 trigger={<NavItem className="right" onClick={() => console.log('test click')}>Get Started</NavItem>}>
